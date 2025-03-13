@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio</h1>
-<h3 align="center">A recently graduated Data Scientist with experience in the telecommunications and networking sector.</h3>
+<h3 align="center">A Data Scientist with a background in the telecommunications and networking sector.</h3>
 
 - 🌱 I’m currently learning **Google Cloud Platform, PowerBI ,BigQuery, Kafka, MachineLearning and Artificial Intelligence.**
 
